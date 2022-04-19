@@ -4,7 +4,7 @@
 * 支持tor网络，且可通过自定义网络配置文件启动xray和caddy来按需配置各种功能  
 * 支持存储自定义文件,目录及账号密码均为AUUID,客户端务必使用TLS连接  
   
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/xrayku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/thesygh/xrayku)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fwinkxx%2Fxrayku&envs=AUUID%2CCADDYIndexPage%2CCONFIGCADDY%2CCONFIGXRAY%2CParameterSSENCYPT%2CStoreFiles&optionalEnvs=CADDYIndexPage%2CCONFIGCADDY%2CCONFIGXRAY%2CParameterSSENCYPT%2CStoreFiles&CADDYIndexPageDefault=https%3A%2F%2Fraw.githubusercontent.com%2Fcaddyserver%2Fdist%2Fmaster%2Fwelcome%2Findex.html&referralCode=dRpUXN)
   
 ### 服务端
